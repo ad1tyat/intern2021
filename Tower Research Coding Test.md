@@ -57,5 +57,4 @@ an array v is given, these vertical bars are removed.
 Find out size of biggest square hole
 
 Eg : n = 6, m = 6, h = [4], v = [2], ans = 4. Refer to figure
-
-<img src="/home/aditya/.config/Typora/typora-user-images/image-20210904000615851.png" alt="image-20210904000615851" style="zoom:200%;" />
+![image](https://user-images.githubusercontent.com/30773534/132053369-4fff80c8-ec77-4052-9273-b2089e852394.png)
